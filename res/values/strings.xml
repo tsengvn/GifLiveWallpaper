@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WavesLiveWallpaperActivity!</string>
+    <string name="app_name">Waves Livewallpaper</string>
+    <string name="wallpaper_name">Waves</string>
+    <string name="description">tsengvn @ Fiverr</string>
+
+</resources>
